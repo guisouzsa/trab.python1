@@ -7,4 +7,4 @@ if média >= 6:
     situação = "aprovado"
 if média <6:
     situação = "reprovado"
-print (f' {nome_alu} esta {situação} na diciplina de {diciplina}')
+print (f'{nome_alu} esta {situação} na diciplina de {diciplina}')
