@@ -1,3 +1,3 @@
-número = int(input(f'Me diga seu número da sorte?'))
-for número_sorte in range(1, 11):
-     print(f"{número} × {número_sorte} = {número} * {número_sorte}")
+número = int(input("Qual número deseja que apareça a tabuada?"))
+for count in range(1,11):
+    #fazer o resto
