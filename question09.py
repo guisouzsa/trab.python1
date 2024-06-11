@@ -1,4 +1,2 @@
-número = 0
-while número <= 8000:
-  print(número)
-  número +=10
+for number in range (0,8001,10):
+    print(number)

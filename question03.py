@@ -1,3 +1,3 @@
-frase=input("Me dia uma frase?")
+frase=input("Me diga uma frase?")
 len(frase)
-print(f'ela possui {len(frase)-1} caracteres')
+print(f'ela possui {len(frase)} caracteres')
